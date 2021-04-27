@@ -1,0 +1,3 @@
+Info = This is an info
+Error =  this is the error line
+Warning = This is a warning
